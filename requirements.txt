@@ -74,3 +74,14 @@ tzdata @ file:///croot/python-tzdata_1690578112552/work
 urllib3 @ file:///croot/urllib3_1727769808118/work
 xxhash @ file:///croot/python-xxhash_1667919521615/work
 yarl @ file:///croot/yarl_1732546845924/work
+
+pandas~=2.2.3
+numpy~=1.26.4
+transformers~=4.47.1
+python-dotenv~=0.21.0
+scikit-learn~=1.5.2
+tqdm~=4.66.5
+peft~=0.14.0
+trl~=0.13.0
+datasets~=3.2.0
+wandb~=0.19.4
